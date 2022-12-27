@@ -42,3 +42,15 @@ just tx,rx,gnd, the 3.3v pin not connected (connector type JST-PH)
 serial console login disabled in pi config  
 klippy firmware built to use USART1 (the LCD header)  
 see comments in printer.cfg  
+
+![](front.jpg)
+![](left.jpg)
+![](right.jpg)
+![](dual_gear_extruder.jpg)
+![](internal_layout.jpg)
+![](pi_stack.jpg)
+![](buck_converter_above.jpg)
+![](mains_inlet_wiring.jpg)
+![](mains_switch_wiring.jpg)
+![](controller_lcd_uart.jpg)
+![](pi_gpio_uart.jpg)
