@@ -1,7 +1,9 @@
 # klipper_mpsm2
 FluiddPi Klipper config for Monoprice Select Mini v2
 
-notes and mods
+PI Zero 2 W running FluiddPI for the OS, Klipper, Fluidd, etc.
+
+Notes and mods:
 
 https://amazon.com/dp/B09D9DJV5V  extruder
 
