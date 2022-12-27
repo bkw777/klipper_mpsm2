@@ -31,21 +31,14 @@ https://amazon.com/dp/B08YN7Z9Y3  lighted blue rocker power switch for front pan
 
 https://amazon.com/dp/B0895T9NXF  power inlet port with fuse and switch for rear panel
 
-https://www.th3dstudio.com/product/tough-tube-high-temp-high-tolerance-ptfe-tubing/  better bowden tube  
-https://www.th3dstudio.com/product/high-strength-pc4-m6-fitting-3-pack/  better tube fitting
-https://www.th3dstudio.com/product/high-strength-pc4-m10-fitting-3-pack/  better tube fitting
+https://www.th3dstudio.com/product/tough-tube-high-temp-high-tolerance-ptfe-tubing/  better bowden tube
 
-https://ebay.com/itm/360663924037  14-16 guage 0.187 flag crimp female spade
-
-https://amazon.com/dp/B0731MZCGF  JST-PH crimp connector kit  
-https://amazon.com/dp/B078WPT5M1  micro crimp tool
-
-lcd & knob removed and replaced by blank plate since klipper can not use the stock lcd
+lcd & knob removed and replaced by blank plate since klipper can not use the stock lcd, also makes more room for the psu
 
 PSU, buck converter, pi zero2w, ethernet/usb board, all mounted inside base with stock controller board
 
 Controller connected to pi by uart from the LCD header on the controller to the GPIO UART0 pins on the pi  
-just tx,rx,gnd, the 3.3v pin not connected  
+just tx,rx,gnd, the 3.3v pin not connected (connector type JST-PH)  
 serial console login disabled in pi config  
 klippy firmware built to use USART1 (the LCD header)  
 see comments in printer.cfg  
