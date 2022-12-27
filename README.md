@@ -1,6 +1,8 @@
 # klipper_mpsm2
 FluiddPi Klipper config for Monoprice Select Mini v2
 
+This is just an initial disorganized jotting down some of the details of how I modded a Monoprice Select Mini v2 to run klipper, with a pi zero 2w built inside the base. It's not a thourough recipe, sorry. But it is the key details between some config files and some pics.
+
 PI Zero 2 W running FluiddPI for the OS, Klipper, Fluidd, etc.
 
 Hardware Mods
